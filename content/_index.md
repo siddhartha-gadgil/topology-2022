@@ -11,3 +11,5 @@ Open and closed sets,  continuous functions, Metric topology, Product topology, 
 1. Armstrong, M. A., Basic Topology, Springer (India), 2004.
 2. Munkres, J. R., Topology, Pearson Education, 2005.
 3. Viro, O.Ya., Ivanov, O.A., Netsvetaev, N., and Kharlamov, V.M., Elementary Topology: Problem Textbook, AMS, 2008.
+
+We will mostly follow the book __Elementary Topology: Problem Textbook__ by __Viro et. al.__, which is available online.
