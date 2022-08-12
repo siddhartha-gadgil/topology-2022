@@ -3,9 +3,10 @@
 * __Instructor:__ [Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil)
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 * __Office:__ N-15, Department of Mathematics, IISc.
-* __Timing:__ to be announced
-* __Venue:__ to be announced
-* __First meeting:__ to be announced
+* __Timing:__ Mon, Wed, Fri 9:00 am - 10:00 am.
+* __Venue:__ LH-4.
+* __First meeting:__ Mon, Aug 8, 2022, 9:00 am.
+* __Microsoft Teams:__ Please join the Team "Topology : August 2022" using the Team code j0irp36
 
 ##### Additional Resources
 
