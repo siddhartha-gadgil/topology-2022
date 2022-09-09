@@ -5,7 +5,9 @@
 * __Office:__ N-15, Department of Mathematics, IISc.
 * __Timing:__ Mon, Wed, Fri 9:00 am - 10:00 am.
 * __Venue:__ LH-4.
-* __First meeting:__ Mon, Aug 8, 2022, 9:00 am.
+* __Teaching Assistant:__ Srijan Sarkar
+* __Office:__ X-13, Department of Mathematics, IISc.
+* __Tutorial timing:__ Wed 5:00 pm - 6:00 pm
 * __Microsoft Teams:__ Please join the Team "Topology : August 2022" using the Team code j0irp36
 
 ##### Additional Resources
