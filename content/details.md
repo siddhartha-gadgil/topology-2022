@@ -30,5 +30,6 @@ The following are the details for the Midterm Examination
 
 * __Date:__ Monday, September 19, 2021.
 * __Timing:__ 9:00 am to 10:30 am.
+* __Venue:__ LH-4, Department of Mathematics.
 * __Syllabus__: Material covered in lectures up to September 12, 2022.
 * __Weightage:__ 40% of the total.
